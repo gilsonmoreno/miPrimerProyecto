@@ -1,2 +1,3 @@
 Mis conocimientos previo:
  - Empezé la carrera de Ingeniería Informatica pero no la terminé
+ - Trabajo con arduino, robotica asi que tengo algunos conocimientos de programacion pero no avanzado.
