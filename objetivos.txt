@@ -1,2 +1,3 @@
 Mis objectivos en el Master Fullstack developer:
-    - 
+    -  Mi principal objetivo en este master es ganar mas conocimiento en programación
+    
